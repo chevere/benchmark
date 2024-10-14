@@ -1,7 +1,5 @@
 # Benchmark
 
-> 🔔 Subscribe to the [newsletter](https://chv.to/chevere-newsletter) to don't miss any update regarding Chevere.
-
 ![Chevere](LOGO.svg)
 
 ![Code size](https://img.shields.io/github/languages/code-size/chevere/benchmark?style=flat-square) [![Apache-2.0](https://img.shields.io/github/license/chevere/benchmark?style=flat-square)](LICENSE) [![Build](https://img.shields.io/github/workflow/status/chevere/benchmark/Test?style=flat-square)](https://github.com/chevere/benchmark/actions)
